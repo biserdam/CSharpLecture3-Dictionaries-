@@ -1,2 +1,2 @@
-# CSharpLecture3-Dictionaries-
-C# Course Lecture 3 Visual Studio Solution - Associative Arrays (Dictionaries)
+# CSharpLecture4(Dictionaries)
+C# Course Lecture 4 Visual Studio Solution - Associative Arrays (Dictionaries)
